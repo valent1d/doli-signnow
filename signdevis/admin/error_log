@@ -1,0 +1,42 @@
+[10-Jul-2024 14:39:15 UTC] PHP Warning:  require(../main.inc.php): Failed to open stream: No such file or directory in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 2
+[10-Jul-2024 14:39:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../main.inc.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php:2
+Stack trace:
+#0 {main}
+  thrown in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 2
+[10-Jul-2024 14:42:16 UTC] PHP Warning:  require(../main.inc.php): Failed to open stream: No such file or directory in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 9
+[10-Jul-2024 14:42:16 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../main.inc.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 9
+[10-Jul-2024 14:43:29 UTC] PHP Warning:  require_once(../../main.inc.php): Failed to open stream: No such file or directory in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 9
+[10-Jul-2024 14:43:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../main.inc.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 9
+[10-Jul-2024 14:43:30 UTC] PHP Warning:  require_once(../../main.inc.php): Failed to open stream: No such file or directory in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 9
+[10-Jul-2024 14:43:30 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '../../main.inc.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php:9
+Stack trace:
+#0 {main}
+  thrown in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 9
+[10-Jul-2024 14:44:49 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_SIGNNOW_API_KEY in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 59
+[10-Jul-2024 14:44:49 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_SIGNNOW_API_SECRET in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 65
+[10-Jul-2024 14:44:49 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_WEBHOOK_URL in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 71
+[10-Jul-2024 14:45:13 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_SIGNNOW_API_KEY in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 59
+[10-Jul-2024 14:45:13 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_SIGNNOW_API_SECRET in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 65
+[10-Jul-2024 14:45:13 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_WEBHOOK_URL in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 71
+[10-Jul-2024 14:46:08 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_SIGNNOW_API_KEY in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 59
+[10-Jul-2024 14:46:08 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_SIGNNOW_API_SECRET in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 65
+[10-Jul-2024 14:46:08 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_WEBHOOK_URL in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 71
+[10-Jul-2024 14:47:55 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_SIGNNOW_API_KEY in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 53
+[10-Jul-2024 14:47:55 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_SIGNNOW_API_SECRET in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 59
+[10-Jul-2024 14:47:55 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_WEBHOOK_URL in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 65
+[10-Jul-2024 14:52:26 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_SIGNNOW_API_KEY in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 53
+[10-Jul-2024 14:52:26 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_SIGNNOW_API_SECRET in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 59
+[10-Jul-2024 14:52:26 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_WEBHOOK_URL in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 65
+[10-Jul-2024 15:00:16 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_SIGNNOW_API_KEY in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 53
+[10-Jul-2024 15:00:16 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_SIGNNOW_API_SECRET in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 59
+[10-Jul-2024 15:00:16 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_WEBHOOK_URL in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 65
+[10-Jul-2024 15:56:46 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_SIGNNOW_API_KEY in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 53
+[10-Jul-2024 15:56:46 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_SIGNNOW_API_SECRET in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 59
+[10-Jul-2024 15:56:46 UTC] PHP Warning:  Undefined property: stdClass::$SIGNDEVIS_WEBHOOK_URL in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 65
+[10-Jul-2024 15:59:35 UTC] PHP Warning:  Undefined variable $webhook_url in /home2/valentin/int-test.dgbl.cc/custom/signdevis/admin/setup.php on line 27

@@ -1,0 +1,12 @@
+SignDevisSetup=Configuration du module SignDevis
+SignNowAPIKey=Clé API SignNow
+SignNowAPISecret=Secret API SignNow
+WebhookURL=URL du Webhook
+WebhookURLDesc=URL à configurer dans SignNow pour recevoir les notifications de signature
+GenerateSignLink=Générer le lien de signature
+SignLinkGenerated=Lien de signature généré avec succès
+ErrorGeneratingSignLink=Erreur lors de la génération du lien de signature
+ErrorSavingSignLink=Erreur lors de l'enregistrement du lien de signature
+SignaturePending=Signature en attente
+SignatureCompleted=Signature complétée
+ViewSignLink=Voir le lien de signature
